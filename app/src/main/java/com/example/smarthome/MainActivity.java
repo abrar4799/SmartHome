@@ -21,5 +21,6 @@ public class MainActivity extends AppCompatActivity {
         startActivity(intent);
 
         Log.d(LOG_TAG, "Button clicked!");
+        // the edit of code is here 
     }
 }
